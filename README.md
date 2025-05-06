@@ -1,12 +1,13 @@
-# React + Vite
+Crypto-place is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to search and explore information about various crypto-currencies. The platform provides real-time data, including daily price charts, highs and lows, and key statistics for each coin.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
 
-Currently, two official plugins are available:
+🔍 Search Functionality: Users can search for any cryptocurrency (e.g., Bitcoin, Ethereum) by name or symbol to instantly get detailed information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📈 Daily Price Chart: Each coin page displays an interactive chart (powered by libraries like Chart.js or Recharts) showing the coin's price movement over the past 24 hours.
 
-## Expanding the ESLint configuration
+📊 Market Data: View current price, daily high and low, market cap, volume, and percentage change.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧩 Responsive UI: Clean and intuitive React-based frontend with reusable components for cards, charts, and tables.
+
+🌐 API Integration: Real-time data fetched from external cryptocurrency APIs such as CoinGecko or [CoinMarketCap].
