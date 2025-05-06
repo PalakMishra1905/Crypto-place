@@ -1,4 +1,4 @@
-Crypto-place is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to search and explore information about various crypto-currencies. The platform provides real-time data, including daily price charts, highs and lows, and key statistics for each coin.
+Crypto-place is a full-stack web application that allows users to search and explore information about various crypto-currencies. The platform provides real-time data, including daily price charts, highs and lows, and key statistics for each coin.
 
 Key Features:
 
