@@ -17,6 +17,10 @@ A dynamic and responsive web application that allows users to explore real-time 
 - **Data Source**: CoinGecko API or similar crypto API
 - **Deployment**: Render / Vercel / Netlify (depending on your config)
 
+## 🌐 Live Demo
+
+-
+
 ## 📦 Installation
 
 Clone the repository:
