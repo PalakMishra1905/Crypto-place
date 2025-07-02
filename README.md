@@ -19,7 +19,7 @@ A dynamic and responsive web application that allows users to explore real-time 
 
 ## 🌐 Live Demo
 
--
+- https://crypto-place-4f428b.netlify.app/
 
 ## 📦 Installation
 
