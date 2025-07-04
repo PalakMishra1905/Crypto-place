@@ -7,7 +7,6 @@ A dynamic and responsive web application that allows users to explore real-time 
 - Live cryptocurrency price tracking
 - Detailed coin-specific data and charts
 - Responsive design for mobile and desktop
-- Dark/light mode toggle
 - Search and filter functionality
 
 ## 🛠️ Tech Stack
@@ -15,7 +14,7 @@ A dynamic and responsive web application that allows users to explore real-time 
 - **Frontend**: React.js, Tailwind CSS, Axios, Chart.js
 - **Backend**: Node.js, Express.js
 - **Data Source**: CoinGecko API or similar crypto API
-- **Deployment**: Render / Vercel / Netlify (depending on your config)
+- **Deployment**:  Netlify 
 
 ## 🌐 Live Demo
 
